@@ -12,11 +12,6 @@
   alt="JeanCarlos-SC" height="40" width="40" /> 
   </a>
 
-  <a href="https://www.instagram.com/fala_tu_jean/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-  alt="JeanCarlos-SC" height="40" width="40" />
-  </a>
-
 ## Technologies
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/> 
