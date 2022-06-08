@@ -7,12 +7,12 @@
   <p> ♦️ ACEITO FEEDBACKS ♦️ </p>
 
  ##  ✉️ Contact Me At:
-  <a href="https://www.linkedin.com/in/jeancarlossc/" target="blank">
+  <a href="https://www.linkedin.com/in/jeancarlossc/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"          
   alt="JeanCarlos-SC" height="40" width="40" /> 
   </a>
 
-  <a href="https://www.instagram.com/fala_tu_jean/" target="blank">
+  <a href="https://www.instagram.com/fala_tu_jean/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
   alt="JeanCarlos-SC" height="40" width="40" />
   </a>
