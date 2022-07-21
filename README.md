@@ -37,6 +37,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
   </a>
 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" alt="jest" width="50" height="50"/> 
+  </a>
 
 ## My status
    <a href="https://github.com/JeanCarlos-SC">
