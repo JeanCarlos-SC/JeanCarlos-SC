@@ -42,7 +42,7 @@
   </a>
   
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://pt.wikipedia.org/wiki/React_%28JavaScript%29#/media/Ficheiro:React-icon.svg" alt="raect" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="raect" width="50" height="50"/> 
   </a>
 
 ## My status
