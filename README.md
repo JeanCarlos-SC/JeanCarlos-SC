@@ -40,6 +40,10 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" alt="jest" width="50" height="50"/> 
   </a>
+  
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://pt.wikipedia.org/wiki/React_%28JavaScript%29#/media/Ficheiro:React-icon.svg" alt="raect" width="50" height="50"/> 
+  </a>
 
 ## My status
    <a href="https://github.com/JeanCarlos-SC">
