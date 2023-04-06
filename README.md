@@ -1,5 +1,6 @@
 # Hi, I'M Jean Carlos!! ✌️
   <p>✨ Sou estudante de desenvolvimento Web Full Stack na <a href="https://github.com/betrybe">Trybe</a>.</p>
+  <p>✨ Sou desenvolvedor Web Full Stack Júnior na <a href="https://www.pilarsistemas.com.br/">Pilar Sistemas</a>.</p>
 
 ## 🌍 About Me:
   <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, desde muito novo sempre tive muito interesse pela área. Durante minha carreira profissional acabei me distanciando da minha paixão. Após tomar a decisão de estudar em tempo integral para realizar o sonho de atuar como um desenvolvedor, consegui minha primeira oportunidade na área, como desenvolvedor web. Estou em constante evolução, e em busca do meu objetivo de se tornar um profissional referência na área, como um desenvolvedor web full stack.</p>  
