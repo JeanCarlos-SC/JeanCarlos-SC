@@ -2,7 +2,7 @@
   <p>✨ Sou estudante de desenvolvimento Web Full Stack na <a href="https://github.com/betrybe">Trybe</a>.</p>
 
 ## 🌍 About Me:
-  <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, desde muito novo sempre tive muito interesse pela área. Durante minha carreira profissional acabei me distanciando da minha paixão, agora estou decidido a ir atrás do meu sonho, de atuar na área e conquistar meus objetivos. Estudo desenvolvimento web na trybe, uma escola que ensina a programar, aprender e a trabalhar, acredito que com o auxílio da trybe e muito esforço vou conseguir impactar positivamente a vida de muitas pessoas com meu trabalho.</p>  
+  <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, desde muito novo sempre tive muito interesse pela área. Durante minha carreira profissional acabei me distanciando da minha paixão. Após tomar a decisão de estudar em tempo integral para realizar o sonho de atuar como um desenvolvedor, consegui minha primeira oportunidade na área, como desenvolvedor web. Estou em constante evolução, e em busca do meu objetivo de se tornar um profissional referência na área, como um desenvolvedor web full stack.</p>  
 
   <p> ♦️ ACEITO FEEDBACKS ♦️ </p>
 
