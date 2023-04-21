@@ -12,6 +12,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"          
   alt="JeanCarlos-SC" height="40" width="40" /> 
   </a>
+  
+  - 💌 Estou sempre aberto ao diálogo, troca de ideias, dúvidas, e novas conexões! Sinta-se à vontade para entrar em contato comigo pelo e-mail: jncorreia44@gmail.com
 
 ## Technologies
 ### FrontEnd
