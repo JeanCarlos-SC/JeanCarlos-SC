@@ -8,12 +8,8 @@
   <p> ♦️ ACEITO FEEDBACKS ♦️ </p>
 
  ##  ✉️ Contact Me At:
-  <a href="https://www.linkedin.com/in/jeancarlossc/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"          
-  alt="JeanCarlos-SC" height="40" width="40" /> 
-  </a>
-  
-  - 💌 Estou sempre aberto ao diálogo, troca de ideias, dúvidas, e novas conexões! Sinta-se à vontade para entrar em contato comigo pelo e-mail: jncorreia44@gmail.com
+  - Estou sempre aberto ao diálogo, troca de ideias, dúvidas, e novas conexões! Sinta-se à vontade para entrar em contato comigo pelo e-mail: jncorreia44@gmail.com
+  - Ou então, pode saber mais sobre mim, e se conectar comigo através do meu <a href="https://www.linkedin.com/in/jeancarlossc/" target="_blank"> Linkedin </a>   
 
 ## Technologies
 ### FrontEnd
