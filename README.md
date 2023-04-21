@@ -3,7 +3,7 @@
   <p>✨ Sou desenvolvedor Web Full Stack Júnior na <a href="https://www.pilarsistemas.com.br/">Pilar Sistemas</a>.</p>
 
 ## 🌍 About Me:
-  <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, desde muito novo sempre tive muito interesse pela área. Durante minha carreira profissional acabei me distanciando da minha paixão. Após tomar a decisão de estudar em tempo integral para realizar o sonho de atuar como um desenvolvedor, consegui minha primeira oportunidade na área, como desenvolvedor web. Estou em constante evolução, e em busca do meu objetivo de se tornar um profissional referência na área, como um desenvolvedor web full stack.</p>  
+  <p>🚀 Sou apaixonado por tecnologia, especialmente por programação, estou em no inicio da minha jornada como desenvolvedor, e buscando me melhorar um pouquinho a cada dia, esse área me surpreende cada vez mais. Pode se   sentir a vontade para analisar meus códigos e me enviar sugestões de melhorias, críticas ou até elogios(acho díficil hahaha). Gosto muito de ler livros sobre programação, então se tiver algum para me indicar eu ficaria   muito feliz 😀. Obrigado por ter vindo atá meu perfil, que Deus te abençoe em sua jornada!</p>  
 
   <p> ♦️ ACEITO FEEDBACKS ♦️ </p>
 
