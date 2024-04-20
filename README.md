@@ -8,7 +8,7 @@
 
  ##  ✉️ Contact Me At:
   - Estou sempre aberto ao diálogo, troca de ideias, dúvidas, e novas conexões! Sinta-se à vontade para entrar em contato comigo pelo e-mail: jncorreia44@gmail.com
-  - Ou então, pode saber mais sobre mim, e se conectar comigo através do meu <a href="https://www.linkedin.com/in/jeancarlossc/" target="_blank"> Linkedin </a>   
+  - Ou então, pode saber mais sobre mim, e se conectar comigo através do meu <a href="https://www.linkedin.com/in/jean_programador/" target="_blank"> Linkedin </a>   
 
 ## Technologies
 ### FrontEnd
